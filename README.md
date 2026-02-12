@@ -24,14 +24,6 @@ Experience deploying applications to Microsoft Azure.
 
 ---
 
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=meiranicolas&theme=tokyonight" />
-</p>
-
----
-
 ## Activity Graph
 
 <p align="center">
