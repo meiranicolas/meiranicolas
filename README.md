@@ -43,7 +43,7 @@ Experience deploying applications to Microsoft Azure.
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-meira-685b34282/">
+  <a href="https://www.linkedin.com/in/meiranicolas/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:meiranicolas5@gmail.com">
