@@ -16,9 +16,12 @@ Building business software end to end: web, mobile and desktop.
 
 ### About me
 
-- Founder of **FreedomIT**, a software company in Brazil that builds custom systems for businesses.
-- I own the full product cycle: requirements with the client, architecture, backend, frontend, mobile, deploy and support.
-- Main focus: **management systems (ERP)** for accounting firms and small businesses, **internal tools** (kanban, CRM, workflows) and **AI features** inside real products.
+- Founder of **FreedomIT**, a software company in Brazil.
+- I own the full product cycle: architecture, backend, frontend, mobile, deploy and support.
+- Currently working on three fronts:
+  - **[PaperFlow](https://paperflow.dev)**: an iPad-first handwriting and study app, with a native ink engine in C++.
+  - **Accounting software for Brazil**: a full accounting and ERP platform for accounting firms and their clients.
+  - **Software house**: custom systems for other companies, with a focus on **AI agents** built into the software.
 - Studied at **FIAP**.
 
 ### Tech stack
@@ -29,6 +32,9 @@ Building business software end to end: web, mobile and desktop.
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
@@ -43,12 +49,18 @@ Building business software end to end: web, mobile and desktop.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/Python_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Mobile & Desktop**
 <br/>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**AI**
+<br/>
+![AI Agents](https://img.shields.io/badge/AI_Agents-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Data & DevOps**
 <br/>
@@ -61,12 +73,11 @@ Building business software end to end: web, mobile and desktop.
 
 ### What I build
 
-| Area | Examples |
-| --- | --- |
-| **Business systems** | Accounting and ERP platforms, client portals, contract management |
-| **Internal tools** | Kanban and CRM, workflow automation, dashboards |
-| **Mobile apps** | Flutter apps that work alongside our web platforms |
-| **AI** | LLM assistants, document processing and semantic search (pgvector) |
+| Product | What it is | Stack |
+| --- | --- | --- |
+| **[PaperFlow](https://paperflow.dev)** | iPad-first handwriting and study app, with an exam question bank | Flutter, C++, Swift/Metal, Kotlin/OpenGL, FastAPI, Next.js |
+| **Accounting platform** | Accounting, tax and ERP for Brazilian accounting firms and their clients | C# / .NET, Next.js, PostgreSQL |
+| **Software house** | Custom software for companies, with AI agents that automate real work | TypeScript, .NET, Python, LLM APIs |
 
 > Most of my work is in private repositories for FreedomIT clients.
 
