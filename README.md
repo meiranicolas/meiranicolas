@@ -16,12 +16,10 @@ Building business software end to end: web, mobile and desktop.
 
 ### About me
 
-- Founder of **FreedomIT**, a software company in Brazil.
-- I own the full product cycle: architecture, backend, frontend, mobile, deploy and support.
-- Currently working on three fronts:
-  - **[PaperFlow](https://paperflow.dev)**: an iPad-first handwriting and study app, with a native ink engine in C++.
-  - **Accounting software for Brazil**: a full accounting and ERP platform for accounting firms and their clients.
-  - **Software house**: custom systems for other companies, with a focus on **AI agents** built into the software.
+- Founder of **FreedomIT**, a software company in Brazil that builds custom systems for businesses.
+- I own the full product cycle: requirements with the client, architecture, backend, frontend, mobile, deploy and support.
+- I work across web, mobile and desktop: **management systems (ERP)**, **internal tools**, **mobile apps** and **AI features** inside real products.
+- Current highlights: **[PaperFlow](https://paperflow.dev)**, an **accounting platform for Brazil**, and **AI agents** built into the software we deliver to clients.
 - Studied at **FIAP**.
 
 ### Tech stack
@@ -73,11 +71,13 @@ Building business software end to end: web, mobile and desktop.
 
 ### What I build
 
-| Product | What it is | Stack |
-| --- | --- | --- |
-| **[PaperFlow](https://paperflow.dev)** | iPad-first handwriting and study app, with an exam question bank | Flutter, C++, Swift/Metal, Kotlin/OpenGL, FastAPI, Next.js |
-| **Accounting platform** | Accounting, tax and ERP for Brazilian accounting firms and their clients | C# / .NET, Next.js, PostgreSQL |
-| **Software house** | Custom software for companies, with AI agents that automate real work | TypeScript, .NET, Python, LLM APIs |
+| Area | Examples |
+| --- | --- |
+| **Business systems** | ERP and accounting platform for Brazilian accounting firms, client portals, contract management |
+| **Custom software** | Systems for other companies, more and more with AI agents that automate real work |
+| **Mobile & desktop** | [PaperFlow](https://paperflow.dev) (iPad handwriting and study app with a C++ ink engine), Flutter and Electron apps |
+| **Internal tools** | Kanban and CRM, workflow automation, dashboards |
+| **AI** | AI agents, LLM assistants, document processing, semantic search (pgvector) |
 
 > Most of my work is in private repositories for FreedomIT clients.
 
