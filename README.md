@@ -84,6 +84,5 @@ Building business software end to end: web, mobile and desktop.
 ### GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=meiranicolas&show_icons=true&hide_border=true&theme=github_dark" />
   <img height="165" src="https://streak-stats.demolab.com?user=meiranicolas&hide_border=true&theme=github-dark-blue" />
 </div>
