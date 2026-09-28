@@ -20,7 +20,7 @@ Building business software end to end: web, mobile and desktop.
 - I own the full product cycle: requirements with the client, architecture, backend, frontend, mobile, deploy and support.
 - I work across web, mobile and desktop: **management systems (ERP)**, **internal tools**, **mobile apps** and **AI features** inside real products.
 - Current highlights: **[PaperFlow](https://paperflow.dev)**, an **accounting platform for Brazil**, and **AI agents** built into the software we deliver to clients.
-- Studied at **FIAP**.
+- **Education:** MBA in Financial Management at **FGV** (in progress) · Systems Analysis and Development at **FIAP**.
 
 ### Tech stack
 
